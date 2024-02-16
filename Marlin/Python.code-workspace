@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\carlo\\OneDrive\\Documentos\\Python"
+		},
+		{
+			"name": "Marlin-2.0.x",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"makefile.extensionOutputFolder": "./.vscode"
+	}
+}
